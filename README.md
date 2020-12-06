@@ -1,6 +1,6 @@
 # 50 Project in 50 Days
 
-50 Project in 50 Days
+Simple projects built using HTML, CSS, and plain JavaScript.
 
 |  #  | Project                                                          | Live Demo                                                                          |
 | :-: | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

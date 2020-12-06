@@ -1,5 +1,5 @@
-# 50 Project in 50 Days
+# Progress Steps
 
-|  #  | Project                       | Live Demo                                                                     |
-| :-: | ----------------------------- | ----------------------------------------------------------------------------- |
-| 01  | [Progress Steps](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/progress-steps/index) |
+Project: progress steps sequence
+
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/progress-steps/index)
