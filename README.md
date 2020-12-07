@@ -10,3 +10,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 04  | [Hidden Search Widget](./hidden-search/README.md)                | [Live Demo](https://josephgattuso.github.io/50-projects/hidden-search/index)       |
 | 05  | [Blurry Loading](./blurry-loading/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/blurry-loading/index)      |
 | 06  | [Scroll Animation](./scroll-animation/README.md)                 | [Live Demo](https://josephgattuso.github.io/50-projects/scroll-animation/index)    |
+| 07  | [Split Landing Page](./split-landing/README.md)                  | [Live Demo](https://josephgattuso.github.io/50-projects/split-landing/index)       |
