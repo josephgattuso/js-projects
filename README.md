@@ -11,3 +11,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 05  | [Blurry Loading](./blurry-loading/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/blurry-loading/index)      |
 | 06  | [Scroll Animation](./scroll-animation/README.md)                 | [Live Demo](https://josephgattuso.github.io/50-projects/scroll-animation/index)    |
 | 07  | [Split Landing Page](./split-landing/README.md)                  | [Live Demo](https://josephgattuso.github.io/50-projects/split-landing/index)       |
+| 08  | [Form Wave](./form-wave/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/form-wave/index)           |
