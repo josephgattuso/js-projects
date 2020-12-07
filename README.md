@@ -1,4 +1,4 @@
-# 50 Project in 50 Days
+# 50 Projects in 50 Days
 
 Simple projects built using HTML, CSS, and plain JavaScript.
 
@@ -12,3 +12,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 06  | [Scroll Animation](./scroll-animation/README.md)                 | [Live Demo](https://josephgattuso.github.io/50-projects/scroll-animation/index)    |
 | 07  | [Split Landing Page](./split-landing/README.md)                  | [Live Demo](https://josephgattuso.github.io/50-projects/split-landing/index)       |
 | 08  | [Form Wave](./form-wave/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/form-wave/index)           |
+| 09  | [Sound Board](./sound-board/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/sound-board/index)         |
