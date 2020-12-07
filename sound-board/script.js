@@ -23,3 +23,5 @@ function stopSongs() {
     song.currentTime = 0;
   });
 }
+
+console.log('hello-world');
