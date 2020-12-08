@@ -15,3 +15,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 09  | [Sound Board](./sound-board/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/sound-board/index)         |
 | 10  | [Dad Jokes](./dad-jokes/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/dad-jokes/index)           |
 | 11  | [Event KeyCodes](./event-keycodes/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/event-keycodes/index)      |
+| 12  | [FAQ Collapse](./faq-collapse/README.md)                         | [Live Demo](https://josephgattuso.github.io/50-projects/faq-collapse/index)        |
