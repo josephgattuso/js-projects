@@ -13,3 +13,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 07  | [Split Landing Page](./split-landing/README.md)                  | [Live Demo](https://josephgattuso.github.io/50-projects/split-landing/index)       |
 | 08  | [Form Wave](./form-wave/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/form-wave/index)           |
 | 09  | [Sound Board](./sound-board/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/sound-board/index)         |
+| 10  | [Dad Jokes](./dad-jokes/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/dad-jokes/index)           |
