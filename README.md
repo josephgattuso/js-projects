@@ -18,3 +18,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 12  | [FAQ Collapse](./faq-collapse/README.md)                         | [Live Demo](https://josephgattuso.github.io/50-projects/faq-collapse/index)         |
 | 13  | [Random Choice Picker](./random-choice-picker/README.md)         | [Live Demo](https://josephgattuso.github.io/50-projects/random-choice-picker/index) |
 | 14  | [Animated Navigation](./animated-navigation/README.md)           | [Live Demo](https://josephgattuso.github.io/50-projects/animated-navigation/index)  |
+| 15  | [Incrementing Counter](./incrementing-counter/README.md)         | [Live Demo](https://josephgattuso.github.io/50-projects/incrementing-counter/index) |
