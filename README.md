@@ -17,3 +17,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 11  | [Event KeyCodes](./event-keycodes/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/event-keycodes/index)       |
 | 12  | [FAQ Collapse](./faq-collapse/README.md)                         | [Live Demo](https://josephgattuso.github.io/50-projects/faq-collapse/index)         |
 | 13  | [Random Choice Picker](./random-choice-picker/README.md)         | [Live Demo](https://josephgattuso.github.io/50-projects/random-choice-picker/index) |
+| 14  | [Animated Navigation](./animated-navigation/README.md)           | [Live Demo](https://josephgattuso.github.io/50-projects/animated-navigation/index)  |
