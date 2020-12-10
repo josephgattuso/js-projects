@@ -22,4 +22,5 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 16  | [Drink Water](./drink-water/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/drink-water/index)          |
 | 17  | [Movie App](./movie-app/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/movie-app/index)            |
 | 18  | [Background Slider](./background-slider/README.md)               | [Live Demo](https://josephgattuso.github.io/50-projects/background-slider/index)    |
-| 19  | [Theme Clock](./theme-clock/README.md)               | [Live Demo](https://josephgattuso.github.io/50-projects/theme-clock/index)    |
+| 19  | [Theme Clock](./theme-clock/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/theme-clock/index)          |
+| 20  | [Button Ripple](./button-ripple/README.md)                       | [Live Demo](https://josephgattuso.github.io/50-projects/button-ripple/index)        |
