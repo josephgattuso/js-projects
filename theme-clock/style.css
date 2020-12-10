@@ -83,7 +83,7 @@ body {
   height: 100px;
 }
 
-.needle.minute {
+.needle.second {
   transform: translate(-50%, -100%) rotate(0deg);
   height: 100px;
   background: #e74c3c;
