@@ -21,3 +21,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 15  | [Incrementing Counter](./incrementing-counter/README.md)         | [Live Demo](https://josephgattuso.github.io/50-projects/incrementing-counter/index) |
 | 16  | [Drink Water](./drink-water/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/drink-water/index)          |
 | 17  | [Movie App](./movie-app/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/movie-app/index)            |
+| 18  | [Background Slider](./background-slider/README.md)               | [Live Demo](https://josephgattuso.github.io/50-projects/background-slider/index)    |
