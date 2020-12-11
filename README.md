@@ -28,3 +28,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 22  | [Drawing App](./drawing-app/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/drawing-app/index)          |
 | 23  | [Kinetic Loader](./kinetic-loader/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/kinetic-loader/index)       |
 | 24  | [Content Placeholder](./content-placeholder/README.md)           | [Live Demo](https://josephgattuso.github.io/50-projects/content-placeholder/index)  |
+| 25  | [Sticky Navigation](./sticky-navigation/README.md)               | [Live Demo](https://josephgattuso.github.io/50-projects/sticky-navigation/index)    |
