@@ -1,4 +1,4 @@
-# 50 Projects in 50 Days
+# 50 Projects
 
 Simple projects built using HTML, CSS, and plain JavaScript.
 
