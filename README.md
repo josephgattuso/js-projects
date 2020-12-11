@@ -25,4 +25,5 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 19  | [Theme Clock](./theme-clock/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/theme-clock/index)          |
 | 20  | [Button Ripple](./button-ripple/README.md)                       | [Live Demo](https://josephgattuso.github.io/50-projects/button-ripple/index)        |
 | 21  | [Drag N Drop](./drag-n-drop/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/drag-n-drop/index)          |
-| 21  | [Drawing App](./drawing-app/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/drawing-app/index)          |
+| 22  | [Drawing App](./drawing-app/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/drawing-app/index)          |
+| 23  | [Kinetic Loader](./kinetic-loader/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/kinetic-loader/index)       |
