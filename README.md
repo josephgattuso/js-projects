@@ -30,3 +30,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 24  | [Content Placeholder](./content-placeholder/README.md)           | [Live Demo](https://josephgattuso.github.io/50-projects/content-placeholder/index)    |
 | 25  | [Sticky Navigation](./sticky-navigation/README.md)               | [Live Demo](https://josephgattuso.github.io/50-projects/sticky-navigation/index)      |
 | 26  | [Double Vertical Slider](./double-vertical-slider/README.md)     | [Live Demo](https://josephgattuso.github.io/50-projects/double-vertical-slider/index) |
+| 27  | [Toast Notifications](./toast-notifications/README.md)           | [Live Demo](https://josephgattuso.github.io/50-projects/toast-notifications/index)    |
