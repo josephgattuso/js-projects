@@ -33,3 +33,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 27  | [Toast Notifications](./toast-notifications/README.md)           | [Live Demo](https://josephgattuso.github.io/50-projects/toast-notifications/index)    |
 | 28  | [GitHub Profiles](./github-profiles/README.md)                   | [Live Demo](https://josephgattuso.github.io/50-projects/github-profiles/index)        |
 | 29  | [Double Heart Clicks](./double-heart-click/README.md)            | [Live Demo](https://josephgattuso.github.io/50-projects/double-heart-click/index)     |
+| 30  | [Auto Text Effect](./auto-text-effectk/README.md)                | [Live Demo](https://josephgattuso.github.io/50-projects/auto-text-effect/index)       |
