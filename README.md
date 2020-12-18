@@ -35,3 +35,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 29  | [Double Heart Clicks](./double-heart-click/README.md)            | [Live Demo](https://josephgattuso.github.io/50-projects/double-heart-click/index)     |
 | 30  | [Auto Text Effect](./auto-text-effect/README.md)                 | [Live Demo](https://josephgattuso.github.io/50-projects/auto-text-effect/index)       |
 | 31  | [Password Generator](./password-generator/README.md)             | [Live Demo](https://josephgattuso.github.io/50-projects/password-generator/index)     |
+| 32  | [Password Generator](./good-cheap-fast/README.md)                | [Live Demo](https://josephgattuso.github.io/50-projects/good-cheap-fast/index)        |
