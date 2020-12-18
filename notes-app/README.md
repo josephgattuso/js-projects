@@ -1,5 +1,5 @@
-# Project Starter
+# Notes App
 
-Project: starter text goes here
+Project: Create, Read, Edit, and Delete notes
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/#/index)
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/notes-ap/index)
