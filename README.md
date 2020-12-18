@@ -37,3 +37,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 31  | [Password Generator](./password-generator/README.md)             | [Live Demo](https://josephgattuso.github.io/50-projects/password-generator/index)     |
 | 32  | [Good Cheap Fast](./good-cheap-fast/README.md)                   | [Live Demo](https://josephgattuso.github.io/50-projects/good-cheap-fast/index)        |
 | 33  | [Notes App](./notes-app/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/notes-app/index)              |
+| 34  | [Animated Countdown](./animated-countdown/README.md)             | [Live Demo](https://josephgattuso.github.io/50-projects/animated-countdown/index)     |
