@@ -18,3 +18,38 @@ img {
   object-fit: cover;
   width: 500px;
 }
+
+.carousel {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  height: 530px;
+  width: 500px;
+}
+
+.image-container {
+  display: flex;
+  transform: translateX(0);
+  transition: transform 0.5s ease-in-out;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background: deepskyblue;
+  color: white;
+  border: none;
+  /* 0.5rem * 16px = 8px */
+  padding: 0.5rem;
+  width: 49.5%;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn:focus {
+  outline: none;
+}
