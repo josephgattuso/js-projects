@@ -39,3 +39,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 33  | [Notes App](./notes-app/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/notes-app)              |
 | 34  | [Animated Countdown](./animated-countdown/README.md)             | [Live Demo](https://josephgattuso.github.io/50-projects/animated-countdown)     |
 | 35  | [Image Carousel](./image-carousel/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/image-carousel)         |
+| 36  | [Hoverboard](./hoverboard/README.md)                             | [Live Demo](https://josephgattuso.github.io/50-projects/hoverboard)             |
