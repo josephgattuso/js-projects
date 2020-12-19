@@ -40,4 +40,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 34  | [Animated Countdown](./animated-countdown/README.md)             | [Live Demo](https://josephgattuso.github.io/50-projects/animated-countdown)     |
 | 35  | [Image Carousel](./image-carousel/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/image-carousel)         |
 | 36  | [Hoverboard](./hoverboard/README.md)                             | [Live Demo](https://josephgattuso.github.io/50-projects/hoverboard)             |
-| 37  | [Pokedex](./pokedex/README.md)                                   | [Live Demo](https://josephgattuso.github.io/50-projects/pokedex)                |
+| 37  | [PokeDex](./pokedex/README.md)                                   | [Live Demo](https://josephgattuso.github.io/50-projects/pokedex)                |
