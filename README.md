@@ -41,3 +41,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 35  | [Image Carousel](./image-carousel/README.md)                     | [Live Demo](https://josephgattuso.github.io/js-projects/image-carousel)         |
 | 36  | [Hoverboard](./hoverboard/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/hoverboard)             |
 | 37  | [PokeDex](./pokedex/README.md)                                   | [Live Demo](https://josephgattuso.github.io/js-projects/pokedex)                |
+| 37  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)             |
