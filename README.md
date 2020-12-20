@@ -13,7 +13,7 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 07  | [Split Landing Page](./split-landing/README.md)                  | [Live Demo](https://josephgattuso.github.io/50-projects/split-landing)          |
 | 08  | [Form Wave](./form-wave/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/form-wave)              |
 | 09  | [Sound Board](./sound-board/README.md)                           | [Live Demo](https://josephgattuso.github.io/50-projects/sound-board)            |
-| 10  | [Dad Jokes](./dad-jokes/README.md)                               | [Live Demo](https://josephgattuso.github.io/50-projects/dad-jokes)              |
+| 10  | [Quotes Generator](./quotes-generator/README.md)                 | [Live Demo](https://josephgattuso.github.io/50-projects/dad-jokes)              |
 | 11  | [Event KeyCodes](./event-keycodes/README.md)                     | [Live Demo](https://josephgattuso.github.io/50-projects/event-keycodes)         |
 | 12  | [FAQ Collapse](./faq-collapse/README.md)                         | [Live Demo](https://josephgattuso.github.io/50-projects/faq-collapse)           |
 | 13  | [Random Choice Picker](./random-choice-picker/README.md)         | [Live Demo](https://josephgattuso.github.io/50-projects/random-choice-picker)   |

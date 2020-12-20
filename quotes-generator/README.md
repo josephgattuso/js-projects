@@ -1,5 +1,5 @@
-# Dad Jokes
+# Quotes Generator
 
-Project: Dad Jokes Challenge
+Project: Using an API to build a random quote generator with Twitter integration.
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/dad-jokes/index)
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/quotes-generator/index)
