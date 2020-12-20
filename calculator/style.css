@@ -4,11 +4,12 @@ html {
 
 body {
   align-items: center;
-  /* background: linear-gradient(to right, #0f2027, #203a43, #2c5364); */
-  background: whitesmoke;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  /* background: whitesmoke; */
   display: flex;
   justify-content: center;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 .calculator {
@@ -66,7 +67,51 @@ body {
   padding: 10px;
 }
 
+button {
+  background: rgb(199, 199, 199);
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  min-height: 50px;
+}
+
+button:hover {
+  filter: brightness(110%);
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+button:focus {
+  outline: none;
+}
+
+.operator {
+  background: gray;
+  color: white;
+  font-size: 30px;
+}
+
+.clear {
+  background: tomato;
+  color: white;
+}
+
+.clear:hover {
+  filter: brightness(90%);
+}
+
 .equal-sign {
+  background: rgb(13, 206, 87);
   grid-column: -2;
   grid-row: 2 / span 4;
+}
+
+/* Media Query: Large Smartphone (Vertical) */
+@media scfreen and (max-width: 600px) {
+  .calculator {
+    width: 95%;
+  }
 }
