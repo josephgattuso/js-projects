@@ -2,4 +2,4 @@
 
 Project: Incrementing Counter
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/incrementing-counter/index)
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/incrementing-counter/index)

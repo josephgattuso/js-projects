@@ -2,4 +2,4 @@
 
 Project: starter text goes here
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/good-cheap-fast/index)
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/good-cheap-fast/index)

@@ -2,4 +2,4 @@
 
 Project: split landing page demo
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/split-landing/index)
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/split-landing/index)

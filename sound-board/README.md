@@ -2,4 +2,4 @@
 
 Project: Sound Board
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/sound-board/index)
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/sound-board/index)

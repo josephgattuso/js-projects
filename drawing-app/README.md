@@ -2,4 +2,4 @@
 
 Project: Drawing app using HTML canvas
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/50-projects/drawing-app/index)
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/drawing-app/index)
