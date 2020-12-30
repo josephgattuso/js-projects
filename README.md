@@ -42,3 +42,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 36  | [Hoverboard](./hoverboard/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/hoverboard)             |
 | 37  | [PokeDex](./pokedex/README.md)                                   | [Live Demo](https://josephgattuso.github.io/js-projects/pokedex)                |
 | 37  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)             |
+| 38  | [Spock Rock Game](./spock-rock-game/README.md)                   |
