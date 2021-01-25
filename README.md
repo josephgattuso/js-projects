@@ -41,5 +41,5 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 35  | [Image Carousel](./image-carousel/README.md)                     | [Live Demo](https://josephgattuso.github.io/js-projects/image-carousel)         |
 | 36  | [Hoverboard](./hoverboard/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/hoverboard)             |
 | 37  | [PokeDex](./pokedex/README.md)                                   | [Live Demo](https://josephgattuso.github.io/js-projects/pokedex)                |
-| 37  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)             |
-| 38  | [Spock Rock Game](./spock-rock-game/README.md)                   |
+| 38  | [Mobile Tab Navigation](./mobile-tab-navigation/README.md)       | [Live Demo](https://josephgattuso.github.io/js-projects/mobile-tab-navigation)  |
+| 39  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)             |
