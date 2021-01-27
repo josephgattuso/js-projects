@@ -1,5 +1,7 @@
-# Project Starter
+# Mobile Tab Navigation
 
-Project: starter text goes here
+Project: Responsive tab navigation for mobile phones.
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/#/index)
+![cover](cover.png)
+
+[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/mobile-tab-navigation/index)
