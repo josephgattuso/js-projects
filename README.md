@@ -43,4 +43,5 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 37  | [PokeDex](./pokedex/README.md)                                   | [Live Demo](https://josephgattuso.github.io/js-projects/pokedex)                |
 | 38  | [Mobile Tab Navigation](./mobile-tab-navigation/README.md)       | [Live Demo](https://josephgattuso.github.io/js-projects/mobile-tab-navigation)  |
 | 39  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)             |
-| 39  | [Custom Countdown](./custom-countdown/README.md)                 | [Live Demo](https://josephgattuso.github.io/js-projects/custom-countdown)       |
+| 40  | [Custom Countdown](./custom-countdown/README.md)                 | [Live Demo](https://josephgattuso.github.io/js-projects/custom-countdown)       |
+| 41  | [Joke Teller](./joke-teller/README.md)                           | [Live Demo](https://josephgattuso.github.io/js-projects/joke-teller)            |
