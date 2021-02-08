@@ -45,3 +45,4 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 39  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)             |
 | 40  | [Custom Countdown](./custom-countdown/README.md)                 | [Live Demo](https://josephgattuso.github.io/js-projects/custom-countdown)       |
 | 41  | [Joke Teller](./joke-teller/README.md)                           | [Live Demo](https://josephgattuso.github.io/js-projects/joke-teller)            |
+| 42  | [Light/Dark Mode](./light-dark-mode/README.md)                   | [Live Demo](https://josephgattuso.github.io/js-projects/light-dark-mode)        |
