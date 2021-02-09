@@ -43,7 +43,8 @@ Simple projects built using HTML, CSS, and plain JavaScript.
 | 37  | [PokeDex](./pokedex/README.md)                                   | [Live Demo](https://josephgattuso.github.io/js-projects/pokedex)                 |
 | 38  | [Mobile Tab Navigation](./mobile-tab-navigation/README.md)       | [Live Demo](https://josephgattuso.github.io/js-projects/mobile-tab-navigation)   |
 | 39  | [Password Image Strength](./password-image-strength/README.md)   | [Live Demo](https://josephgattuso.github.io/js-projects/password-image-strength) |
-| 40  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)              |
-| 41  | [Custom Countdown](./custom-countdown/README.md)                 | [Live Demo](https://josephgattuso.github.io/js-projects/custom-countdown)        |
-| 42  | [Joke Teller](./joke-teller/README.md)                           | [Live Demo](https://josephgattuso.github.io/js-projects/joke-teller)             |
-| 43  | [Light/Dark Mode](./light-dark-mode/README.md)                   | [Live Demo](https://josephgattuso.github.io/js-projects/light-dark-mode)         |
+| 40  | [3D Boxes Background](./3d-boxes-background/README.md)           | [Live Demo](https://josephgattuso.github.io/js-projects/3d-boxes-background)     |
+| 41  | [Calculator](./calculator/README.md)                             | [Live Demo](https://josephgattuso.github.io/js-projects/calculator)              |
+| 42  | [Custom Countdown](./custom-countdown/README.md)                 | [Live Demo](https://josephgattuso.github.io/js-projects/custom-countdown)        |
+| 43  | [Joke Teller](./joke-teller/README.md)                           | [Live Demo](https://josephgattuso.github.io/js-projects/joke-teller)             |
+| 44  | [Light/Dark Mode](./light-dark-mode/README.md)                   | [Live Demo](https://josephgattuso.github.io/js-projects/light-dark-mode)         |
