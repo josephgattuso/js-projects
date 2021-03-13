@@ -4,4 +4,4 @@ Project: Web component with feature typing effect. Control speed using input fie
 
 ![cover](cover.png)
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/#/index)
+[Source Code](./README.md) | [Live Demo](https://gattuso.dev/js-projects/#/index)

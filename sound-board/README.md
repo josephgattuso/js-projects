@@ -4,4 +4,4 @@ Project: Sound Board
 
 ![cover](cover.png)
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/sound-board/index)
+[Source Code](./README.md) | [Live Demo](https://gattuso.dev/js-projects/sound-board/index)

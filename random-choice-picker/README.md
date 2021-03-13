@@ -4,4 +4,4 @@ Project: Random choice picker: enter all of the choices divided by commas (',').
 
 ![cover](cover.png)
 
-[Source Code](./README.md) | [Live Demo](https://josephgattuso.github.io/js-projects/random-choice-picker/index)
+[Source Code](./README.md) | [Live Demo](https://gattuso.dev/js-projects/random-choice-picker/index)
